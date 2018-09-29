@@ -1,5 +1,11 @@
 # About This Project
 
+This is a demo project, main to illustrate the power of react-navigation and redux-ORM.
+
+The full tutorial could be found here:
+
+[https://www.bart.com.hk/redux-tutorial-with-react-navigation-and-redux-orm/](https://www.bart.com.hk/redux-tutorial-with-react-navigation-and-redux-orm/)
+
 # General React Native Instructions
 ## Updating to New Releases
 
